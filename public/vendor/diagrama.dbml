@@ -1,0 +1,9 @@
+Table Chats{
+id int [pk, increment]
+nombre varchar
+apellidos varchar
+celular varchar
+edad int
+direccion varchar
+
+}
